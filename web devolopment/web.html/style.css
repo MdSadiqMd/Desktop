@@ -1,0 +1,22 @@
+h3{
+    color: blue;
+}
+p1{
+    background-color:aqua ;
+    margin-right:50px;
+}
+p2{
+    background-color:black;
+    padding:50px;
+}
+body{
+    background-color:blueviolet;
+}
+span{
+    color:beige;
+}
+p3{
+    font-family:lucida;
+    font-size: xx-large;
+
+}
